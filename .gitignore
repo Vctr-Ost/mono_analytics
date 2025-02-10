@@ -1,0 +1,5 @@
+.env
+.vscode/
+mono_project/config
+mono_project/logs
+.DS_Store
