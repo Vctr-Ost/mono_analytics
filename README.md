@@ -1,6 +1,7 @@
 .env files should be in:
 
 - ./mono_postgres/.env
+
     POSTGRES_USER= (user_name postgres)
     POSTGRES_PASSWORD= (user_pass postgres)
     POSTGRES_DB= (db_name postgres)
