@@ -3,11 +3,16 @@
 - ./mono_postgres/.env
 
     POSTGRES_USER= (user_name postgres)
+
     POSTGRES_PASSWORD= (user_pass postgres)
+
     POSTGRES_DB= (db_name postgres)
 
+
 - ./mono_project/dags/.env
+
     AIRFLOW_UID= (default 501)
+
     ACCOUNT_ID= (account_id monobank)
     X_TOKEN= (token monobank)
 
